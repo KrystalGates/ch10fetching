@@ -1,0 +1,9 @@
+.foodList{
+    display: flex;
+    flex-direction: row;
+}
+
+.foodList div{
+    border: 2px solid orange;
+    margin: 2%;
+}
